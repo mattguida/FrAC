@@ -1,7 +1,5 @@
 # Computational Framework for Analyzing Framing Patterns: From Articles to Comments
 
-This repository contains code, data, and models for large-scale analysis of media framing effects between news articles and reader comments.
-
 ## 📊 Datasets Released
 
 ### 1. FrAC (Frames in Articles and Comments) Corpus
