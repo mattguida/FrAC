@@ -1,5 +1,5 @@
 # FrAC: From Articles to Comments
-## A Framework for Computational Framing Analysis
+## A Framework for Computational Framing Analysis across Text Types
 
 [![Paper](https://img.shields.io/badge/paper-TACL-blue)](link-to-paper)
 [![Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](link-to-model)
