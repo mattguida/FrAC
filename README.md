@@ -1,4 +1,4 @@
-# Computational Framework for Analyzing Framing Patterns: From Articles to Comments
+# Computational Framework for Analyzing Framing Patterns across Text Types
 
 ## 📊 Datasets Released
 
