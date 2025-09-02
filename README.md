@@ -14,12 +14,12 @@ Our approach examines how readers engage with, retain, or reframe media content 
 
 ## Datasets
 ### 1. FrAC (Frames in Articles and Comments) Corpus
-- **File**: data/gold_standard_single_label_all.csv
+- **File**: gold_standard_single_label_all.csv
 - **Content**: more than 500 manually annotated sentences from articles and comments
 - **Annotation**: 9 frame categories - and an "Other" category - with high inter-annotator agreement (α=0.76)
   
 ### 2. Large-Scale Framing Effects Dataset
-- **Files**: data/nyt_all.parquet, data/socc_all.parquet
+- **Files**: nyt_all.csv, socc_all.csv
 - **Content**: 2,776 articles and 386,090 comments across 11 topics
 - **Topics**: Gun Control, Russia-Ukraine, Trump & Elections, Healthcare, Immigration, LGBT+ Rights, Education, Abortion, Israel-Palestine, Climate Change, Syria & IS
 - **Info**: Articles and comments in this data are aligned by same topic to allow for analysis of framing patterns when the comments stay on topic. Each article and comment is also annotated with a dominant frame label, automatically assigned with out fine-tuned sentence frame classifier.
@@ -70,3 +70,4 @@ Our framework uses 9 frame categories derived from the Media Frames Corpus:
 
 # Citation
 XXX
+
