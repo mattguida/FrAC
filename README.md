@@ -69,5 +69,6 @@ Our framework uses 9 frame categories derived from the Media Frames Corpus:
   
 
 # Citation
-XXX
+Guida, M., Otmakhova, Y., Hovy, E., & Frermann, L. (2025). [Retain or reframe? a computational framework for the analysis of framing in news articles and reader comments]([url](https://arxiv.org/pdf/2507.04612)). arXiv preprint arXiv:2507.04612.
+
 
